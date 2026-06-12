@@ -1,0 +1,3 @@
+--- PASSWORD RESET LINK FOR srikanthorisi62@gmail.com ---
+Link: http://localhost:5173/?token=14c129fb-ab29-490d-8a82-321ecba3810c
+---------------------------------------
